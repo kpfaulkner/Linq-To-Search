@@ -2,7 +2,7 @@
 <configuration>
 
   <appSettings>
-    <add key="ServiceUID" value="your username"/>
+    <add key="ServiceUID" value="your usernameaaa"/>
     <add key="ServicePWD" value="your password"/>
     <add key="ServiceDomain" value="your domain"/>
   </appSettings>
