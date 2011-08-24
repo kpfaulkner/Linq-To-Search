@@ -1,0 +1,12 @@
+
+Need to write...
+
+but for now... make sure you add a service reference to the sharepoint server http://...../_vti_bin/search.asmx
+
+and that you modify the app.config to include
+
+          <security mode="TransportCredentialOnly">
+            <transport clientCredentialType="Ntml"/>
+          </security>
+
+
